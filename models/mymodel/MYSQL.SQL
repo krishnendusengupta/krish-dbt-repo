@@ -1,0 +1,1 @@
+SELECT * FROM {{source('mymodel','FACT_ORDERS_2023')}}
