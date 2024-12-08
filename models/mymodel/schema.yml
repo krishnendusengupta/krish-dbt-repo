@@ -1,5 +1,5 @@
 sources:
-  - name: First Ecomm Pipeline
+  - name: mymodel
     description: "This is made by @Sahil . It is for MKTG Team to calculate sales"
     database: DEX_DB
     schema: PUBLIC
